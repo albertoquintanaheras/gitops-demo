@@ -8,4 +8,4 @@ replicas:
 images:
   - name: nginx
     newName: mi-web
-    newTag: "V2"
+    newTag: "v1"
