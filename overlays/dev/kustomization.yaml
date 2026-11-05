@@ -7,4 +7,5 @@ replicas:
     count: 1
 images:
   - name: nginx
-    newTag: "1.28"
+    newName: mi-web
+    newTag: "v1"
